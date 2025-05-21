@@ -1,0 +1,50 @@
+{
+  "nama": "Ach. Albadriyano Reedhoni Diponegoro",
+  "nama panggilang": "Ridho",
+  "kontak": {
+    "telepon": "+62 896 5226 2405",
+    "email": "achalbadriyano@gmail.com"
+  },
+  "jabatan": "Web Developer / Security Engineer",
+  "pendidikan": [
+    {
+      "institusi": "State Polytechnic of Jember",
+      "jurusan": "Computer Engineering",
+      "tahun_lulus": "2024"
+    },
+    {
+      "institusi": "Nuris Vocational School",
+      "jurusan": "Computer and Network Engineering",
+      "tahun_lulus": "2021"
+    }
+  ],
+  "pengalaman_kerja": [
+    {
+      "perusahaan": "VNet Media",
+      "jabatan": "Network Technician",
+      "tahun": "2019",
+      "deskripsi": "Menangani jaringan, cetak foto & dokumen, dan operator warnet"
+    },
+    {
+      "perusahaan": "PT. Mega Artha Lintas Data",
+      "jabatan": "Network Technician",
+      "tahun": "2023",
+      "deskripsi": "Instalasi perangkat jaringan, konfigurasi, dan pemeliharaan jaringan"
+    }
+  ],
+  "keahlian": [
+    "Networking",
+    "System Administration",
+    "Web Development",
+    "Security Engineering"
+  ],
+  "Pekerjaan": [
+    {
+      "perusahaan": "PT. Tanjungsari Prima Sentosa",
+      "jabatan": "IT Staff",
+      "tahun": "Desember 2024 - Sekarang",
+      "deskripsi": "Perusahaan yang bergerak di bidang penyewaan alat berat (heavy equipment rental) untuk mendukung kebutuhan proyek konstruksi, pertambangan, infrastruktur, dan industri lainnya. Berdiri sejak tahun 1990, kami telah menjadi mitra andalan berbagai perusahaan dan kontraktor di seluruh Indonesia.",
+      "link": "https://rimasa.co.id"
+    }
+  ]
+}
